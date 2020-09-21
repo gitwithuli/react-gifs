@@ -1,5 +1,5 @@
- eslint jsx-a11y/alt-text: off
- eslint jsx-a11y/no-noninteractive-element-interactions: off
+ // eslint jsx-a11y/alt-text: off
+ // eslint jsx-a11y/no-noninteractive-element-interactions: off
 
 import React, { Component } from 'react';
 
